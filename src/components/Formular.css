@@ -1,0 +1,12 @@
+.login-form{
+   position:absolute;
+    width: 600;
+    max-width: 300px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-left:150px;
+    margin-bottom: 100px;
+    height: 80%;
+    background-color: LightSteelBlue;
+    
+  }
